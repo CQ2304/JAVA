@@ -7,7 +7,7 @@ public class TeGane {
         if(a>0){
            b=a+.1; 
            JOptionPane.showMessageDialog(null,"Tu numero es: "+a+"    Mi numero es: "+b);
-           JOptionPane.showMessageDialog(null,"TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE");
+           JOptionPane.showMessageDialog(null,"TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE TE GANE");
         }
         else if(a<=0){
             b=a-.1;

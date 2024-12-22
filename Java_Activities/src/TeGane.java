@@ -12,7 +12,7 @@ public class TeGane {
         else if(a<=0){
             b=a-.1;
             JOptionPane.showMessageDialog(null,"Tu numero es: "+a+"    Mi numero es: "+b);
-            JOptionPane.showMessageDialog(null,"ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE");
+            JOptionPane.showMessageDialog(null,"ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE ME GANASTE");
         }
        
         
